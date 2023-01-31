@@ -1,0 +1,18 @@
+.sidebar{
+    background-color: #e9ecf9;
+    padding: 0px 12px 0px 0px;
+}
+
+button{
+   background: #E63946;
+   margin: 40% 3%;
+   border-radius: 8px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   width: 175px;    
+   color: #FFFFFF;
+   height: 36px;
+   padding: 0 15px;
+}
+
